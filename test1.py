@@ -1,0 +1,7 @@
+import time
+
+
+print(2 + 2)
+
+
+print(3)
